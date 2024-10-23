@@ -8,6 +8,15 @@ const name = 'Mario';
 
 // Invoca la funzione qui e stampa il risultato in console
 
+// function rowWelcome(n) {
+//     const saluto = 'Ciao ' 
+//     return saluto + n
+// }
 
+// console.log(rowWelcome(name))
 
+const ciaone = a => {
+    return 'Ciao ' + a
+}
+console.log(ciaone(name))
 //Risultato atteso se si passa 'Mario': // ciao Mario
