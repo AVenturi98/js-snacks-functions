@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 5501,
+    "editor.suggest.preview": true,
+    "editor.suggest.shareSuggestSelections": true,
+    "editor.suggest.showClasses": true,
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "terminal.integrated.suggest.enabled": true,
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": false
+}
